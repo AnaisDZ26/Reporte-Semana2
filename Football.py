@@ -18,5 +18,5 @@ for i in range(n - 1):
 
 if goles_1 > goles_2:  # Solo hay dos casos posibles, por lo mismo se omite la condicion de goles_2 > goles_1
     print(equipo_1)
-else: 
+else:
     print(equipo_2)
